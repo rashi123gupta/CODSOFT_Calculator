@@ -1,0 +1,41 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F6F1F1;
+}
+
+h1 {
+    text-align: center;
+    padding: 23px;
+    background-color: #AFD3E2;
+    color: #146C94;
+}
+
+.formstyle {
+    width: 300px;
+    height: 410px;
+    margin: auto;
+    border: 3px solid #146C94;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+input {
+    width: 10px;
+    height: 10px;
+    background-color: #19A7CE;
+    color: rgb(205, 245, 255);
+    border: 3px solid #AFD3E2;
+    border-radius: 40%;
+    padding: 26px;
+    margin: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#calc {
+    width: 250px;
+    border: 3px solid rgb(61, 61, 61);
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
